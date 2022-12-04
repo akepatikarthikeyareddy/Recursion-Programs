@@ -1,6 +1,6 @@
 /* 
-Problem: N-Queens (Given A Number N, Find The Total Number Of Ways In Which We Can 
-         Place N-Queens In NxN Chess Board Such That Each Row And Column Contains AtLeast 1 Queen And None Of Them Kills Each Other)
+Problem: N-Queens (Given A Number N, Find The Total Number Of Ways In Which We Can Place N-Queens 
+         In NxN Chess Board Such That Each Row And Column Contains AtLeast 1 Queen And None Of Them Kills Each Other)
 Input  : 6
 Output : [[2, 4, 6, 1, 3, 5], [3, 6, 2, 5, 1, 4], [4, 1, 5, 2, 6, 3], [5, 3, 1, 6, 4, 2]]
 */
