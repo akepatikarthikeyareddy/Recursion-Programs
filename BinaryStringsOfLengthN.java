@@ -27,16 +27,13 @@ class BinaryStringsOfLengthN {
             return;
         }
         if(str.length() == 0 || str.charAt(str.length()-1) == '0'){
-            str.append('0');
-            generateAllBinaryStrings(str, ans, n);
+            generateAllBinaryStrings(str.append('0'), ans, n);
             str.deleteCharAt(str.length()-1);
-            str.append('1');
-            generateAllBinaryStrings(str, ans, n);
+            generateAllBinaryStrings(str.append('1'), ans, n);
             str.deleteCharAt(str.length()-1);
         }
         else{
-            str.append('0');
-            generateAllBinaryStrings(str, ans, n);
+            generateAllBinaryStrings(str.append('0'), ans, n);
             str.deleteCharAt(str.length()-1);
         }
     }
