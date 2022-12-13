@@ -1,6 +1,5 @@
 /*
-Problem: Given An Integer N Representing The Number Of Pairs Of Parentheses, The Task Is To
-Generate All Combinations Of Well-Formed(Balanced) Parentheses.
+Problem: Given An Integer N Representing The Number Of Pairs Of Parentheses, The Task Is To Generate All Combinations Of Well-Formed(Balanced) Parentheses.
 
 Input : 3
 Output: ["((()))", "(()())", "(())()", "()(())", "()()()"]
