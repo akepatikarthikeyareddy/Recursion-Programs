@@ -2,9 +2,7 @@
 Problem: Given A Keypad, And An N Digit Number Which Is Represented By Array Nums[], The Task Is To List All Words Which Are Possible By Pressing These Numbers.
 
 Input : N = 3, Nums[] = {2, 3, 4}
-Output: {adg, adh, adi, aeg, aeh, aei, afg, afh, afi, 
-        bdg, bdh, bdi, beg, beh, bei, bfg, bfh, bfi, 
-        cdg, cdh, cdi, ceg, ceh, cei, cfg, cfh, cfi}
+Output: {adg, adh, adi, aeg, aeh, aei, afg, afh, afi, bdg, bdh, bdi, beg, beh, bei, bfg, bfh, bfi, cdg, cdh, cdi, ceg, ceh, cei, cfg, cfh, cfi}
 */
 
 import java.util.Scanner;
