@@ -1,7 +1,7 @@
 /*
 Problem: Given A String S, Find All Possible Palindromic Partitions Of The Given String.
 Input : inputString = "madam"
-Output: [["m", "a", "d", "a", "m"], ["m", "a", "da", "m"], ["madam"]]
+Output: [["m", "a", "d", "a", "m"], ["m", "ada", "m"], ["madam"]]
 */
 
 import java.util.Scanner;
